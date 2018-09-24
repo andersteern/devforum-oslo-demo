@@ -1,0 +1,22 @@
+{
+  "name": "devforum-oslo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/anders/Dropbox/git/devforum-oslo-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0",
+    "jest-image-snapshot": "^2.5.0",
+    "puppeteer": "^1.8.0"
+  }
+}
