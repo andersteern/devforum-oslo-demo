@@ -9,7 +9,7 @@ const Button = styled(({ transparent, ...props }) => <RebassButton color="gray2"
   font-weight: bold;
   background-color: #000;
   cursor: pointer;
-  font-size: 1.5rem
+  font-size: 1.5rem;
   color: #fff;
   transition: all .3s;
 
