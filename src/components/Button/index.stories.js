@@ -11,4 +11,13 @@ storiesOf('Button', module)
         {children}
       </Button>
     );
+  })
+  .add('with padding', () => {
+    const children = 'My Other Content';
+
+    return (
+      <Button>
+        {children}
+      </Button>
+    );
   });
