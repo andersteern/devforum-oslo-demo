@@ -30,8 +30,8 @@ const Hero = ({ children, img }) => (
   </Flex>
 );
 Hero.defaultProps = {
-  img: "https://c1.staticflickr.com/6/5163/5370376932_de34e93b5b_b.jpg",
-  // img: "https://c1.staticflickr.com/6/5708/23883363605_ee85370d6e_b.jpg",
+//   img: "https://c1.staticflickr.com/6/5163/5370376932_de34e93b5b_b.jpg",
+  img: "https://c1.staticflickr.com/6/5708/23883363605_ee85370d6e_b.jpg",
 };
 
 
