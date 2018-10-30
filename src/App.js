@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Hero><span>I’ll <i>never</i> turn to the dark side. You’ve failed, your highness. I am a Jedi, like my father before me.</span></Hero>
+        <Hero><span>I’ll <i>always</i> turn to the dark side. You’ve failed, your highness. I am a Jedi, like my father before me.</span></Hero>
 
         <Spacing>
           <Paragraph>Lucas ipsum dolor sit amet danni ansuroer natasi dagobah trianii solo wilhuff gank nahdar jek. Khai jettster zev amedda oola terrik moff. Even whill shmi raynar firmus askajian. Darth qrygg jabba medon yoda ahsoka k-3po rebo. Unduli calamari croke tarasin x2. Bel yowza ulic owen coruscant ahsoka rom. Omas solo ulic jettster kaminoan abrion bail ti stass. Tavion roan nomi vader ki-adi-mundi barriss typho. Ishi ugnaught roos panaka kathol unduli muunilinst xappyh. Mimbanite sidious ugnaught wat ebe vader ssi-ruuk obi-wan t'landa.</Paragraph>
